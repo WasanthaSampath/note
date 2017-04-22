@@ -1,3 +1,6 @@
+git config --global user.name "wasantha2ra"
+git config --global user.email "wasantha2ra@gmail.com"
+
 git clone https://github.com/wasantha2ra/quickads
 
 cd quickads
