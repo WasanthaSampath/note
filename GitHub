@@ -1,0 +1,14 @@
+git clone https://github.com/wasantha2ra/quickads
+
+cd quickads
+
+git status
+
+git add .
+
+git commit -m "comment test 01"
+
+git log
+
+git push
+
